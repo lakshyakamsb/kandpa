@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kandpa/static/css/main.6d963711.css",
+    "main.js": "/kandpa/static/js/main.eb7195a7.js",
+    "index.html": "/kandpa/index.html",
+    "main.6d963711.css.map": "/kandpa/static/css/main.6d963711.css.map",
+    "main.eb7195a7.js.map": "/kandpa/static/js/main.eb7195a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d963711.css",
+    "static/js/main.eb7195a7.js"
+  ]
+}
